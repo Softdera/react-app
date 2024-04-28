@@ -7,7 +7,7 @@ import '../index.css';
 
 
 
-function App() {
+function Home() {
   return (
     
     <div className='container'>
@@ -29,4 +29,4 @@ function App() {
   )
 }
 
-export default App;
+export default Home;
